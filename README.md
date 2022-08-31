@@ -10,7 +10,9 @@ https://data.sba.gov/dataset/ppp-foia
 
 TODO:
   Anamoly detection of outlier of loan amount with oither peers in zipcode/state
-
+  Cluster group analysis of business addresses
+  
+  
 potential cons:
   Fraud relies primarly on fraud rings - using graphql and combine different datasets could be helpful
   Find people who cross applied for multiple loans to commit fraud 
